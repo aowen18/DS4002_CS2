@@ -16,7 +16,7 @@ The purpose of this case study is to better your skills in text analysis as a da
 
 The information in this table can be found above on the GitHub page.
 
-<div align="center">
+<div text-align="center">
 
 | Document | Link |
 |--------|---------|
